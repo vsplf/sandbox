@@ -4,3 +4,6 @@
 [submodule "vsplf-notification"]
 	path = vsplf-notification
 	url = git@github.com:vsplf/vsplf-notification.git
+[submodule "vsplf-parent"]
+	path = vsplf-parent
+	url = git@github.com:vsplf/vsplf-parent.git
