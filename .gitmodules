@@ -1,3 +1,6 @@
 [submodule "vsplf-dynamic-i18n"]
 	path = vsplf-dynamic-i18n
 	url = git@github.com:vsplf/vsplf-dynamic-i18n.git
+[submodule "vsplf-notification"]
+	path = vsplf-notification
+	url = git@github.com:vsplf/vsplf-notification.git
