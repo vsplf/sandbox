@@ -7,3 +7,6 @@
 [submodule "vsplf-parent"]
 	path = vsplf-parent
 	url = git@github.com:vsplf/vsplf-parent.git
+[submodule "tools"]
+	path = tools
+	url = git@github.com:vsplf/tools.git
